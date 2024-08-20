@@ -2,3 +2,25 @@ body{
     background: rgb(24, 247, 143);
     color: cornsilk;
 }
+
+header{
+    border-bottom:solid 20px;
+    padding: 20px;
+    font-size: 32px;
+    color:(24, 247, 143)
+
+}
+
+section{
+    background-color: chartreuse;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+chamada-texto{
+    margin-left: 20px;
+
+}
